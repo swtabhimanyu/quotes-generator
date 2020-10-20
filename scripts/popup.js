@@ -77,7 +77,7 @@ var quotes=[
     },
     {
         "author":"Eleanor Roosevelt",
-        "quote":"Do what you feel in your heart to be right – for you’ll be criticized anyway."
+        "quote":"Do what you feel in your heart to be right for you’ll be criticized anyway."
     },
     {
         "author":"Socrates",
